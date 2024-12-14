@@ -1,5 +1,4 @@
 # l0gger
-log ur opps
 
 educational purposes only
 
